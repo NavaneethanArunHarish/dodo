@@ -1,0 +1,1117 @@
+.cardColor {
+    background-color: #ffffff !important;
+}
+
+.cardgroupColor {
+    background-color: #28a89a !important;
+    color: #ffffff !important;
+    width: 810px;
+    padding-top: 5px;
+}
+
+.border {
+    border: 1px solid #fff !important;
+}
+
+.cardAlign {
+    margin-left: 20px;
+}
+
+.table {
+    width:600px;
+    border: 1px solid #fff;
+}
+
+.buttonColor {
+    background-color: #28a89a !important;
+    color: #ffffff !important;
+}
+
+.groupImgAlign {
+    width: 30px;
+    height: 25px;
+}
+
+.groupLabel {
+    border: 1px solid #e3e3e3;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    color: #28a89a;
+}
+
+.tableWidth {
+    width:100px;
+}
+
+.tableDiv {
+    border: 1px solid #e3e3e3;
+    margin-right: 100px; 
+    padding-top: 15px;
+    padding-bottom: 15px; 
+    padding-left: 15px;
+    padding-right: 15px; 
+}
+
+.tableFontColor {
+    color: #28a89a;
+}
+
+.participantWidth {
+    width: 300px;
+}
+
+.singleLine {
+    display: inline-flex;
+}
+
+@media only screen and (min-device-width : 400px) and (max-device-width : 500px) {
+
+    .cardColor {
+        background-color: #ffffff !important;
+    }
+    
+    .cardgroupColor {
+        background-color: #28a89a !important;
+        color: #ffffff !important;
+        width: 340px;
+        padding-top: 5px;
+    }
+    
+    .border {
+        border: 1px solid #fff !important;
+    }
+    
+    .cardAlign {
+        margin-left: 20px;
+    }
+    
+    .table {
+        width:600px;
+        border: 1px solid #fff;
+    }
+    
+    .buttonColor {
+        background-color: #28a89a !important;
+        color: #ffffff !important;
+    }
+    
+    .groupImgAlign {
+        width: 30px;
+        height: 25px;
+    }
+    
+    .groupLabel {
+        border: 1px solid #e3e3e3;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding-right: 5px;
+        color: #28a89a;
+    }
+    
+    .tableWidth {
+        width:100px;
+    }
+    
+    .tableDiv {
+        border: 1px solid #e3e3e3;
+        margin-right: 25px; 
+        padding-top: 15px;
+        padding-bottom: 15px; 
+        padding-left: 15px;
+        padding-right: 15px; 
+    }
+    
+    .tableFontColor {
+        color: #28a89a;
+    }
+    
+    .participantWidth {
+        width: 0px;
+        margin-left: 30px;
+        margin-bottom: 19px;
+    }
+
+    .singleLine {
+        display: inline-block;
+    }
+
+
+}
+
+@media only screen and (min-device-width : 300px) and (max-device-width : 400px) {
+
+    .cardColor {
+        background-color: #ffffff !important;
+    }
+    
+    .cardgroupColor {
+        background-color: #28a89a !important;
+        color: #ffffff !important;
+        width: 280px;
+        padding-top: 5px;
+    }
+    
+    .border {
+        border: 1px solid #fff !important;
+    }
+    
+    .cardAlign {
+        margin-left: 20px;
+    }
+    
+    .table {
+        width:600px;
+        border: 1px solid #fff;
+    }
+    
+    .buttonColor {
+        background-color: #28a89a !important;
+        color: #ffffff !important;
+    }
+    
+    .groupImgAlign {
+        width: 30px;
+        height: 25px;
+    }
+    
+    .groupLabel {
+        border: 1px solid #e3e3e3;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding-right: 5px;
+        color: #28a89a;
+    }
+    
+    .tableWidth {
+        width:200px;
+    }
+    
+    .tableDiv {
+        border: 1px solid #e3e3e3;
+        margin-right: 25px; 
+        padding-top: 15px;
+        padding-bottom: 15px; 
+        padding-left: 15px;
+        padding-right: 15px; 
+    }
+    
+    .tableFontColor {
+        color: #28a89a;
+    }
+    
+    
+    .participantWidth {
+        width: 0px;
+        margin-left: 30px;
+        margin-bottom: 19px;
+
+    }
+
+    .singleLine {
+        display: inline-block;
+    }
+    
+    
+}
+
+@media screen and (min-width: 500px) and (max-width:
+599px) {
+    .cardColor {
+        background-color: #ffffff !important;
+    }
+    
+    .cardgroupColor {
+        background-color: #28a89a !important;
+        color: #ffffff !important;
+        width: 410px !important;
+        padding-top: 5px;
+    }
+    
+    .border {
+        border: 1px solid #fff !important;
+    }
+    
+    .cardAlign {
+        margin-left: 20px;
+    }
+    
+    .table {
+        width:600px;
+        border: 1px solid #fff;
+    }
+    
+    .buttonColor {
+        background-color: #28a89a !important;
+        color: #ffffff !important;
+    }
+    
+    .groupImgAlign {
+        width: 30px;
+        height: 25px;
+    }
+    
+    .groupLabel {
+        border: 1px solid #e3e3e3;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding-right: 5px;
+        color: #28a89a;
+    }
+    
+    .tableWidth {
+        width:200px;
+    }
+    
+    .tableDiv {
+        border: 1px solid #e3e3e3;
+        margin-right: 25px; 
+        padding-top: 15px;
+        padding-bottom: 15px; 
+        padding-left: 15px;
+        padding-right: 15px; 
+    }
+    
+    .tableFontColor {
+        color: #28a89a;
+    }
+    
+    
+    .participantWidth {
+        margin-left: 30px;
+        margin-bottom: 19px;
+        width: 160px;
+
+    }
+
+    .singleLine {
+        display: inline-flex;
+    }
+}
+
+@media screen and (min-width: 600px) and (max-width:
+649px) {
+    .cardColor {
+        background-color: #ffffff !important;
+    }
+    
+    .cardgroupColor {
+        background-color: #28a89a !important;
+        color: #ffffff !important;
+        width: 410px !important;
+        padding-top: 5px;
+    }
+    
+    .border {
+        border: 1px solid #fff !important;
+    }
+    
+    .cardAlign {
+        margin-left: 20px;
+    }
+    
+    .table {
+        width:600px;
+        border: 1px solid #fff;
+    }
+    
+    .buttonColor {
+        background-color: #28a89a !important;
+        color: #ffffff !important;
+    }
+    
+    .groupImgAlign {
+        width: 30px;
+        height: 25px;
+    }
+    
+    .groupLabel {
+        border: 1px solid #e3e3e3;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding-right: 5px;
+        color: #28a89a;
+    }
+    
+    .tableWidth {
+        width:200px;
+    }
+    
+    .tableDiv {
+        border: 1px solid #e3e3e3;
+        margin-right: 25px; 
+        padding-top: 15px;
+        padding-bottom: 15px; 
+        padding-left: 15px;
+        padding-right: 15px; 
+    }
+    
+    .tableFontColor {
+        color: #28a89a;
+    }
+    
+    
+    .participantWidth {
+        margin-left: 30px;
+        margin-bottom: 19px;
+        width: 160px;
+
+    }
+
+    .singleLine {
+        display: inline-flex;
+    }
+}
+
+@media screen and (min-width: 650px) and (max-width:
+699px) {
+    .cardColor {
+        background-color: #ffffff !important;
+    }
+    
+    .cardgroupColor {
+        background-color: #28a89a !important;
+        color: #ffffff !important;
+        width: 460px !important;
+        padding-top: 5px;
+    }
+    
+    .border {
+        border: 1px solid #fff !important;
+    }
+    
+    .cardAlign {
+        margin-left: 20px;
+    }
+    
+    .table {
+        width:600px;
+        border: 1px solid #fff;
+    }
+    
+    .buttonColor {
+        background-color: #28a89a !important;
+        color: #ffffff !important;
+    }
+    
+    .groupImgAlign {
+        width: 30px;
+        height: 25px;
+    }
+    
+    .groupLabel {
+        border: 1px solid #e3e3e3;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding-right: 5px;
+        color: #28a89a;
+    }
+    
+    .tableWidth {
+        width:200px;
+    }
+    
+    .tableDiv {
+        border: 1px solid #e3e3e3;
+        margin-right: 25px; 
+        padding-top: 15px;
+        padding-bottom: 15px; 
+        padding-left: 15px;
+        padding-right: 15px; 
+    }
+    
+    .tableFontColor {
+        color: #28a89a;
+    }
+    
+    
+    .participantWidth {
+        margin-left: 30px;
+        margin-bottom: 19px;
+        width: 160px;
+
+    }
+
+    .singleLine {
+        display: inline-flex;
+    }
+}
+
+@media screen and (min-width: 700px) and (max-width:
+799px) {
+    .cardColor {
+        background-color: #ffffff !important;
+    }
+    
+    .cardgroupColor {
+        background-color: #28a89a !important;
+        color: #ffffff !important;
+        width: 460px !important;
+        padding-top: 5px;
+    }
+    
+    .border {
+        border: 1px solid #fff !important;
+    }
+    
+    .cardAlign {
+        margin-left: 20px;
+    }
+    
+    .table {
+        width:600px;
+        border: 1px solid #fff;
+    }
+    
+    .buttonColor {
+        background-color: #28a89a !important;
+        color: #ffffff !important;
+    }
+    
+    .groupImgAlign {
+        width: 30px;
+        height: 25px;
+    }
+    
+    .groupLabel {
+        border: 1px solid #e3e3e3;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding-right: 5px;
+        color: #28a89a;
+    }
+    
+    .tableWidth {
+        width:200px;
+    }
+    
+    .tableDiv {
+        border: 1px solid #e3e3e3;
+        margin-right: 25px; 
+        padding-top: 15px;
+        padding-bottom: 15px; 
+        padding-left: 15px;
+        padding-right: 15px; 
+    }
+    
+    .tableFontColor {
+        color: #28a89a;
+    }
+    
+    
+    .participantWidth {
+        margin-left: 30px;
+        margin-bottom: 19px;
+        width: 200px;
+
+    }
+
+    .singleLine {
+        display: inline-flex;
+    }
+}
+
+
+@media screen and (min-width: 800px) and (max-width:
+899px) {
+    .cardColor {
+        background-color: #ffffff !important;
+    }
+    
+    .cardgroupColor {
+        background-color: #28a89a !important;
+        color: #ffffff !important;
+        width: 550px !important;
+        padding-top: 5px;
+    }
+    
+    .border {
+        border: 1px solid #fff !important;
+    }
+    
+    .cardAlign {
+        margin-left: 20px;
+    }
+    
+    .table {
+        width:600px;
+        border: 1px solid #fff;
+    }
+    
+    .buttonColor {
+        background-color: #28a89a !important;
+        color: #ffffff !important;
+    }
+    
+    .groupImgAlign {
+        width: 30px;
+        height: 25px;
+    }
+    
+    .groupLabel {
+        border: 1px solid #e3e3e3;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding-right: 5px;
+        color: #28a89a;
+    }
+    
+    .tableWidth {
+        width:200px;
+    }
+    
+    .tableDiv {
+        border: 1px solid #e3e3e3;
+        margin-right: 25px; 
+        padding-top: 15px;
+        padding-bottom: 15px; 
+        padding-left: 15px;
+        padding-right: 15px; 
+    }
+    
+    .tableFontColor {
+        color: #28a89a;
+    }
+    
+    
+    .participantWidth {
+        margin-left: 30px;
+        margin-bottom: 19px;
+        width: 200px;
+
+    }
+
+    .singleLine {
+        display: inline-flex;
+    }
+}
+
+@media screen and (min-width: 900px) and (max-width:
+999px) {
+    .cardColor {
+        background-color: #ffffff !important;
+    }
+    
+    .cardgroupColor {
+        background-color: #28a89a !important;
+        color: #ffffff !important;
+        width: 650px !important;
+        padding-top: 5px;
+    }
+    
+    .border {
+        border: 1px solid #fff !important;
+    }
+    
+    .cardAlign {
+        margin-left: 20px;
+    }
+    
+    .table {
+        width:600px;
+        border: 1px solid #fff;
+    }
+    
+    .buttonColor {
+        background-color: #28a89a !important;
+        color: #ffffff !important;
+    }
+    
+    .groupImgAlign {
+        width: 30px;
+        height: 25px;
+    }
+    
+    .groupLabel {
+        border: 1px solid #e3e3e3;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding-right: 5px;
+        color: #28a89a;
+    }
+    
+    .tableWidth {
+        width:200px;
+    }
+    
+    .tableDiv {
+        border: 1px solid #e3e3e3;
+        margin-right: 25px; 
+        padding-top: 15px;
+        padding-bottom: 15px; 
+        padding-left: 15px;
+        padding-right: 15px; 
+    }
+    
+    .tableFontColor {
+        color: #28a89a;
+    }
+    
+    
+    .participantWidth {
+        margin-left: 30px;
+        margin-bottom: 19px;
+        width: 220px;
+
+    }
+
+    .singleLine {
+        display: inline-flex;
+    }
+}
+
+@media screen and (min-width: 1000px) and (max-width:
+1099px) {
+    .cardColor {
+        background-color: #ffffff !important;
+    }
+    
+    .cardgroupColor {
+        background-color: #28a89a !important;
+        color: #ffffff !important;
+        width: 660px !important;
+        padding-top: 5px;
+    }
+    
+    .border {
+        border: 1px solid #fff !important;
+    }
+    
+    .cardAlign {
+        margin-left: 20px;
+    }
+    
+    .table {
+        width:600px;
+        border: 1px solid #fff;
+    }
+    
+    .buttonColor {
+        background-color: #28a89a !important;
+        color: #ffffff !important;
+    }
+    
+    .groupImgAlign {
+        width: 30px;
+        height: 25px;
+    }
+    
+    .groupLabel {
+        border: 1px solid #e3e3e3;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding-right: 5px;
+        color: #28a89a;
+    }
+    
+    .tableWidth {
+        width:200px;
+    }
+    
+    .tableDiv {
+        border: 1px solid #e3e3e3;
+        margin-right: 25px; 
+        padding-top: 15px;
+        padding-bottom: 15px; 
+        padding-left: 15px;
+        padding-right: 15px; 
+    }
+    
+    .tableFontColor {
+        color: #28a89a;
+    }
+    
+    
+    .participantWidth {
+        margin-left: 30px;
+        margin-bottom: 19px;
+        width: 250px;
+
+    }
+
+    .singleLine {
+        display: inline-flex;
+    }
+}
+
+@media screen and (min-width: 1100px) and (max-width:
+1290px) {
+    .cardColor {
+        background-color: #ffffff !important;
+    }
+    
+    .cardgroupColor {
+        background-color: #28a89a !important;
+        color: #ffffff !important;
+        width: 810px !important;
+        padding-top: 5px;
+    }
+    
+    .border {
+        border: 1px solid #fff !important;
+    }
+    
+    .cardAlign {
+        margin-left: 20px;
+    }
+    
+    .table {
+        width:600px;
+        border: 1px solid #fff;
+    }
+    
+    .buttonColor {
+        background-color: #28a89a !important;
+        color: #ffffff !important;
+    }
+    
+    .groupImgAlign {
+        width: 30px;
+        height: 25px;
+    }
+    
+    .groupLabel {
+        border: 1px solid #e3e3e3;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding-right: 5px;
+        color: #28a89a;
+    }
+    
+    .tableWidth {
+        width:200px;
+    }
+    
+    .tableDiv {
+        border: 1px solid #e3e3e3;
+        margin-right: 25px; 
+        padding-top: 15px;
+        padding-bottom: 15px; 
+        padding-left: 15px;
+        padding-right: 15px; 
+    }
+    
+    .tableFontColor {
+        color: #28a89a;
+    }
+    
+    
+    .participantWidth {
+        margin-left: 30px;
+        margin-bottom: 19px;
+
+    }
+
+    .singleLine {
+        display: inline-flex;
+    }
+}
+
+@media screen and (min-width: 1500px) and (max-width:
+1690px) {
+    .cardColor {
+        background-color: #ffffff !important;
+    }
+    
+    .cardgroupColor {
+        background-color: #28a89a !important;
+        color: #ffffff !important;
+        width: 910px !important;
+        padding-top: 5px;
+    }
+    
+    .border {
+        border: 1px solid #fff !important;
+    }
+    
+    .cardAlign {
+        margin-left: 20px;
+    }
+    
+    .table {
+        width:600px;
+        border: 1px solid #fff;
+    }
+    
+    .buttonColor {
+        background-color: #28a89a !important;
+        color: #ffffff !important;
+    }
+    
+    .groupImgAlign {
+        width: 30px;
+        height: 25px;
+    }
+    
+    .groupLabel {
+        border: 1px solid #e3e3e3;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding-right: 5px;
+        color: #28a89a;
+    }
+    
+    .tableWidth {
+        width:200px;
+    }
+    
+    .tableDiv {
+        border: 1px solid #e3e3e3;
+        margin-right: 25px; 
+        padding-top: 15px;
+        padding-bottom: 15px; 
+        padding-left: 15px;
+        padding-right: 15px; 
+    }
+    
+    .tableFontColor {
+        color: #28a89a;
+    }
+    
+    
+    .participantWidth {
+        margin-left: 30px;
+        margin-bottom: 19px;
+
+    }
+
+    .singleLine {
+        display: inline-flex;
+    }
+}
+
+@media screen and (min-width: 1700px) and (max-width:
+1890px) {
+    .cardColor {
+        background-color: #ffffff !important;
+    }
+    
+    .cardgroupColor {
+        background-color: #28a89a !important;
+        color: #ffffff !important;
+        width: 960px !important;
+        padding-top: 5px;
+    }
+    
+    .border {
+        border: 1px solid #fff !important;
+    }
+    
+    .cardAlign {
+        margin-left: 20px;
+    }
+    
+    .table {
+        width:600px;
+        border: 1px solid #fff;
+    }
+    
+    .buttonColor {
+        background-color: #28a89a !important;
+        color: #ffffff !important;
+    }
+    
+    .groupImgAlign {
+        width: 30px;
+        height: 25px;
+    }
+    
+    .groupLabel {
+        border: 1px solid #e3e3e3;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding-right: 5px;
+        color: #28a89a;
+    }
+    
+    .tableWidth {
+        width:200px;
+    }
+    
+    .tableDiv {
+        border: 1px solid #e3e3e3;
+        margin-right: 25px; 
+        padding-top: 15px;
+        padding-bottom: 15px; 
+        padding-left: 15px;
+        padding-right: 15px; 
+    }
+    
+    .tableFontColor {
+        color: #28a89a;
+    }
+    
+    
+    .participantWidth {
+        margin-left: 30px;
+        margin-bottom: 19px;
+
+    }
+
+    .singleLine {
+        display: inline-flex;
+    }
+}
+
+@media screen and (min-width: 1900px) and (max-width:
+2100px) {
+    .cardColor {
+        background-color: #ffffff !important;
+    }
+    
+    .cardgroupColor {
+        background-color: #28a89a !important;
+        color: #ffffff !important;
+        width: 1210px !important;
+        padding-top: 5px;
+    }
+    
+    .border {
+        border: 1px solid #fff !important;
+    }
+    
+    .cardAlign {
+        margin-left: 20px;
+    }
+    
+    .table {
+        width:600px;
+        border: 1px solid #fff;
+    }
+    
+    .buttonColor {
+        background-color: #28a89a !important;
+        color: #ffffff !important;
+    }
+    
+    .groupImgAlign {
+        width: 30px;
+        height: 25px;
+    }
+    
+    .groupLabel {
+        border: 1px solid #e3e3e3;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding-right: 5px;
+        color: #28a89a;
+    }
+    
+    .tableWidth {
+        width:200px;
+    }
+    
+    .tableDiv {
+        border: 1px solid #e3e3e3;
+        margin-right: 25px; 
+        padding-top: 15px;
+        padding-bottom: 15px; 
+        padding-left: 15px;
+        padding-right: 15px; 
+    }
+    
+    .tableFontColor {
+        color: #28a89a;
+    }
+    
+    
+    .participantWidth {
+        margin-left: 30px;
+        margin-bottom: 19px;
+
+    }
+
+    .singleLine {
+        display: inline-flex;
+    }
+
+}
+
+@media screen and (min-width: 2200px) and (max-width:
+2800px) {
+    .cardColor {
+        background-color: #ffffff !important;
+    }
+    
+    .cardgroupColor {
+        background-color: #28a89a !important;
+        color: #ffffff !important;
+        width: 1350px !important;
+        padding-top: 5px;
+    }
+    
+    .border {
+        border: 1px solid #fff !important;
+    }
+    
+    .cardAlign {
+        margin-left: 20px;
+    }
+    
+    .table {
+        width:600px;
+        border: 1px solid #fff;
+    }
+    
+    .buttonColor {
+        background-color: #28a89a !important;
+        color: #ffffff !important;
+    }
+    
+    .groupImgAlign {
+        width: 30px;
+        height: 25px;
+    }
+    
+    .groupLabel {
+        border: 1px solid #e3e3e3;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding-right: 5px;
+        color: #28a89a;
+    }
+    
+    .tableWidth {
+        width:200px;
+    }
+    
+    .tableDiv {
+        border: 1px solid #e3e3e3;
+        margin-right: 25px; 
+        padding-top: 15px;
+        padding-bottom: 15px; 
+        padding-left: 15px;
+        padding-right: 15px; 
+    }
+    
+    .tableFontColor {
+        color: #28a89a;
+    }
+    
+    
+    .participantWidth {
+        margin-left: 30px;
+        margin-bottom: 19px;
+
+    }
+
+    .singleLine {
+        display: inline-flex;
+    }
+
+}

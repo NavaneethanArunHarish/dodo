@@ -1,0 +1,538 @@
+.cardColor {
+    background-color: #ffffff !important;
+}
+
+.cardgroupColor {
+    background-color: #28a89a !important;
+    color: #ffffff !important;
+    width: 810px;
+    padding-top: 5px;
+}
+
+.cardOneGroup {
+    background-color: #B3B6B7 !important;
+    color: #ffffff !important; 
+    width: 610px;
+    padding-top: 5px; 
+}
+
+.border {
+    border: 1px solid #fff !important;
+}
+
+.border_confirm {
+    border: 1px solid transparent !important;
+}
+
+.cardAlign {
+    margin-left: 20px;
+}
+
+tableOneDiv {
+    margin-left: 50px !important;
+}
+
+tableOneData {
+    margin-left: 10px !important;
+}
+
+tableOneImg {
+    width: 30px !important;
+    height: 25px !important;
+}
+
+tableSpace {
+    margin-left: 120px !important;
+}
+
+tableSpan {
+    margin-right: '440px'
+}
+
+iconImg {
+    width: 30px;
+    height: 25px;
+}
+
+tableAlignDiv {
+    border: 1px solid #e0dbdb;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding-bottom: 25px;
+    width: 300px !important;
+}
+
+collapseThreeLabel {
+    margin-left: 400px;
+}
+
+collapseThreeTable {
+    border: 1px solid #fff;
+    margin-left: 90px;
+    width: 500px; 
+}
+
+choiceOne {
+    width:300px !important;
+}
+
+confirmTableWidth {
+    width: 500px !important;
+}
+
+
+@media only screen and (min-device-width : 400px) and (max-device-width : 500px) {
+    
+        .cardColor {
+            background-color: #ffffff !important;
+        }
+        
+        .cardgroupColor {
+            background-color: #28a89a !important;
+            color: #ffffff !important;
+            width: 280px;
+            padding-top: 5px;
+        }
+        
+        .border {
+            border: 1px solid #fff !important;
+        }
+        
+        .cardAlign {
+            margin-left: 20px;
+        }
+
+        tableOneDiv {
+            margin-left: 0px;
+        }
+        
+        tableOneData {
+            margin-left: 0px;
+        }
+        
+        tableOneImg {
+            width: 30px;
+            height: 25px;
+        }
+        
+        tableSpace {
+            margin-left: 0px;
+        }
+
+        tableSpan {
+            margin-right: '0px'
+        }
+
+        iconImg {
+            width: 30px;
+            height: 25px;
+        }
+
+        collapseThreeLabel {
+            margin-left: 0px;
+        }
+
+        collapseThreeTable {
+            border: 1px solid #fff;
+            margin-left: 0px;
+            width: 0px; 
+        }
+
+        choiceOne {
+            width:0px;
+        }
+
+        .cardOneGroup {
+            background-color: #B3B6B7 !important;
+            color: #ffffff !important; 
+            width: 280px;
+            padding-top: 5px; 
+        }
+
+        confirmTableWidth {
+            width: 0px !important;
+        }
+        
+
+}
+
+
+
+@media only screen and (min-device-width : 300px) and (max-device-width : 400px) {
+    
+        .cardColor {
+            background-color: #ffffff !important;
+        }
+        
+        .cardgroupColor {
+            background-color: #28a89a !important;
+            color: #ffffff !important;
+            width: 280px;
+            padding-top: 5px;
+        }
+        
+        .border {
+            border: 1px solid #fff !important;
+        }
+        
+        .cardAlign {
+            margin-left: 20px;
+        }
+
+        tableOneDiv {
+            margin-left: 0px;
+        }
+        
+        tableOneData {
+            margin-left: 0px;
+        }
+        
+        tableOneImg {
+            width: 30px;
+            height: 25px;
+        }
+        
+        tableSpace {
+            margin-left: 0px;
+        }
+
+        tableSpan {
+            margin-right: '0px'
+        }
+
+        iconImg {
+            width: 30px;
+            height: 25px;
+        }
+
+        collapseThreeLabel {
+            margin-left: 400px;
+        }
+
+        collapseThreeTable {
+            border: 1px solid #fff;
+            margin-left: 0px;
+            width: 0px; 
+        }
+
+        choiceOne {
+            width:0px;
+        }
+
+        .cardOneGroup {
+            background-color: #B3B6B7 !important;
+            color: #ffffff !important; 
+            width: 280px;
+            padding-top: 5px; 
+        }
+
+        confirmTableWidth {
+            width: 0px !important;
+        }
+
+    }
+
+    @media screen and (min-width: 800px) and (max-width:
+    899px) {
+        
+            .cardColor {
+                background-color: #ffffff !important;
+            }
+            
+            .cardgroupColor {
+                background-color: #28a89a !important;
+                color: #ffffff !important;
+                width: 280px;
+                padding-top: 5px;
+            }
+            
+            .border {
+                border: 1px solid #fff !important;
+            }
+            
+            .cardAlign {
+                margin-left: 20px;
+            }
+    
+            tableOneDiv {
+                margin-left: 0px;
+            }
+            
+            tableOneData {
+                margin-left: 0px;
+            }
+            
+            tableOneImg {
+                width: 30px;
+                height: 25px;
+            }
+            
+            tableSpace {
+                margin-left: 0px;
+            }
+    
+            tableSpan {
+                margin-right: '0px'
+            }
+    
+            iconImg {
+                width: 30px;
+                height: 25px;
+            }
+    
+            collapseThreeLabel {
+                margin-left: 400px;
+            }
+    
+            collapseThreeTable {
+                border: 1px solid #fff;
+                margin-left: 0px;
+                width: 0px; 
+            }
+    
+            choiceOne {
+                width:0px;
+            }
+    
+            .cardOneGroup {
+                background-color: #B3B6B7 !important;
+                color: #ffffff !important; 
+                width: 410px;
+                padding-top: 5px; 
+            }
+    
+            confirmTableWidth {
+                width: 0px !important;
+            }
+    
+        }
+
+        @media screen and (min-width: 700px) and (max-width:
+        799px) {
+            
+                .cardColor {
+                    background-color: #ffffff !important;
+                }
+                
+                .cardgroupColor {
+                    background-color: #28a89a !important;
+                    color: #ffffff !important;
+                    width: 280px;
+                    padding-top: 5px;
+                }
+                
+                .border {
+                    border: 1px solid #fff !important;
+                }
+                
+                .cardAlign {
+                    margin-left: 20px;
+                }
+        
+                tableOneDiv {
+                    margin-left: 0px;
+                }
+                
+                tableOneData {
+                    margin-left: 0px;
+                }
+                
+                tableOneImg {
+                    width: 30px;
+                    height: 25px;
+                }
+                
+                tableSpace {
+                    margin-left: 0px;
+                }
+        
+                tableSpan {
+                    margin-right: '0px'
+                }
+        
+                iconImg {
+                    width: 30px;
+                    height: 25px;
+                }
+        
+                collapseThreeLabel {
+                    margin-left: 400px;
+                }
+        
+                collapseThreeTable {
+                    border: 1px solid #fff;
+                    margin-left: 0px;
+                    width: 0px; 
+                }
+        
+                choiceOne {
+                    width:0px;
+                }
+        
+                .cardOneGroup {
+                    background-color: #B3B6B7 !important;
+                    color: #ffffff !important; 
+                    width: 370px;
+                    padding-top: 5px; 
+                }
+        
+                confirmTableWidth {
+                    width: 0px !important;
+                }
+        
+            }
+
+
+            @media screen and (min-width: 600px) and (max-width:
+            699px) {
+                
+                    .cardColor {
+                        background-color: #ffffff !important;
+                    }
+                    
+                    .cardgroupColor {
+                        background-color: #28a89a !important;
+                        color: #ffffff !important;
+                        width: 280px;
+                        padding-top: 5px;
+                    }
+                    
+                    .border {
+                        border: 1px solid #fff !important;
+                    }
+                    
+                    .cardAlign {
+                        margin-left: 20px;
+                    }
+            
+                    tableOneDiv {
+                        margin-left: 0px;
+                    }
+                    
+                    tableOneData {
+                        margin-left: 0px;
+                    }
+                    
+                    tableOneImg {
+                        width: 30px;
+                        height: 25px;
+                    }
+                    
+                    tableSpace {
+                        margin-left: 0px;
+                    }
+            
+                    tableSpan {
+                        margin-right: '0px'
+                    }
+            
+                    iconImg {
+                        width: 30px;
+                        height: 25px;
+                    }
+            
+                    collapseThreeLabel {
+                        margin-left: 400px;
+                    }
+            
+                    collapseThreeTable {
+                        border: 1px solid #fff;
+                        margin-left: 0px;
+                        width: 0px; 
+                    }
+            
+                    choiceOne {
+                        width:0px;
+                    }
+            
+                    .cardOneGroup {
+                        background-color: #B3B6B7 !important;
+                        color: #ffffff !important; 
+                        width: 350px;
+                        padding-top: 5px; 
+                    }
+            
+                    confirmTableWidth {
+                        width: 0px !important;
+                    }
+            
+                }
+
+                @media screen and (min-width: 500px) and (max-width:
+                599px) {
+                    
+                        .cardColor {
+                            background-color: #ffffff !important;
+                        }
+                        
+                        .cardgroupColor {
+                            background-color: #28a89a !important;
+                            color: #ffffff !important;
+                            width: 280px;
+                            padding-top: 5px;
+                        }
+                        
+                        .border {
+                            border: 1px solid #fff !important;
+                        }
+                        
+                        .cardAlign {
+                            margin-left: 20px;
+                        }
+                
+                        tableOneDiv {
+                            margin-left: 0px;
+                        }
+                        
+                        tableOneData {
+                            margin-left: 0px;
+                        }
+                        
+                        tableOneImg {
+                            width: 30px;
+                            height: 25px;
+                        }
+                        
+                        tableSpace {
+                            margin-left: 0px;
+                        }
+                
+                        tableSpan {
+                            margin-right: '0px'
+                        }
+                
+                        iconImg {
+                            width: 30px;
+                            height: 25px;
+                        }
+                
+                        collapseThreeLabel {
+                            margin-left: 400px;
+                        }
+                
+                        collapseThreeTable {
+                            border: 1px solid #fff;
+                            margin-left: 0px;
+                            width: 0px; 
+                        }
+                
+                        choiceOne {
+                            width:0px;
+                        }
+                
+                        .cardOneGroup {
+                            background-color: #B3B6B7 !important;
+                            color: #ffffff !important; 
+                            width: 350px;
+                            padding-top: 5px; 
+                        }
+                
+                        confirmTableWidth {
+                            width: 0px !important;
+                        }
+                
+                    }
+
+
+
+    

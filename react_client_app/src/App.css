@@ -1,0 +1,1348 @@
+.App {
+  text-align: center;
+  background-color: '#14B4B0';
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.App-img {
+    position: absolute;
+    top: 74px;
+    z-index: -1;
+}
+
+.App-card {
+    margin-top: 75px;
+    height: 500px;
+    width: 850px;
+    margin-left: 235px;
+}
+
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+@media only screen and (min-device-width : 400px) and (max-device-width : 500px) {
+  .App {
+    text-align: center;
+    background-color: '#14B4B0';
+  }
+  
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+    height: 80px;
+  }
+  
+  .App-header {
+    background-color: #222;
+    height: 150px;
+    padding: 20px;
+    color: white;
+  }
+  
+  .App-title {
+    font-size: 1.5em;
+  }
+  
+  .App-intro {
+    font-size: large;
+  }
+  
+  .App-img {
+      position: absolute;
+      left: 25px; 
+      top: 74px;
+      z-index: -1;
+  }
+  
+  .App-card {
+      margin-top: 75px;
+      height: 500px;
+      width: 380px;
+      margin-left: 20px;
+  }
+
+  .simulationImg {
+    top:73px; 
+    height:650px; 
+    left:0px;
+  }
+
+  .officialTable {
+    width: 500px;
+    border: 1px solid #fff
+  }
+}
+
+@media only screen and (min-device-width : 300px) and (max-device-width : 400px) {
+  .App {
+    text-align: center;
+    background-color: '#14B4B0';
+  }
+  
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+    height: 80px;
+  }
+  
+  .App-header {
+    background-color: #222;
+    height: 150px;
+    padding: 20px;
+    color: white;
+  }
+  
+  .App-title {
+    font-size: 1.5em;
+  }
+  
+  .App-intro {
+    font-size: large;
+  }
+  
+  .App-img {
+      position: absolute;
+      left: 25px;
+      top: 74px;
+      z-index: -1;
+      height: 1000px;
+  }
+  
+  .App-card {
+      margin-top: 75px;
+      height: 800px;
+      width: 323px;
+      margin-left: 20px;
+  }
+
+  .simulationImg {
+    top:73px; 
+    left:0px;
+  }
+
+  .officialTable {
+    width: 500px;
+    border: 1px solid #fff
+  }
+}
+
+@media screen and (min-width: 501px) and (max-width:
+539px) {
+  .App {
+    text-align: center;
+    background-color: '#14B4B0';
+  }
+  
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+    height: 80px;
+  }
+  
+  .App-header {
+    background-color: #222;
+    height: 150px;
+    padding: 20px;
+    color: white;
+  }
+  
+  .App-title {
+    font-size: 1.5em;
+  }
+  
+  .App-intro {
+    font-size: large;
+  }
+  
+  .App-img {
+      position: absolute;
+      top: 74px;
+      z-index: -1;
+  }
+  
+  .App-card {
+      margin-top: 75px;
+      height: 700px;
+      width: 450px;
+      margin-left: 22px;
+  }
+}
+
+@media screen and (min-width: 540px) and (max-width:
+569px) {
+  .App {
+    text-align: center;
+    background-color: '#14B4B0';
+  }
+  
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+    height: 80px;
+  }
+  
+  .App-header {
+    background-color: #222;
+    height: 150px;
+    padding: 20px;
+    color: white;
+  }
+  
+  .App-title {
+    font-size: 1.5em;
+  }
+  
+  .App-intro {
+    font-size: large;
+  }
+  
+  .App-img {
+      position: absolute;
+      top: 74px;
+      z-index: -1;
+  }
+  
+  .App-card {
+      margin-top: 75px;
+      height: 700px;
+      width: 450px;
+      margin-left: 40px;
+  }
+}
+
+@media screen and (min-width: 570px) and (max-width:
+599px) {
+  .App {
+    text-align: center;
+    background-color: '#14B4B0';
+  }
+  
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+    height: 80px;
+  }
+  
+  .App-header {
+    background-color: #222;
+    height: 150px;
+    padding: 20px;
+    color: white;
+  }
+  
+  .App-title {
+    font-size: 1.5em;
+  }
+  
+  .App-intro {
+    font-size: large;
+  }
+  
+  .App-img {
+      position: absolute;
+      top: 74px;
+      z-index: -1;
+  }
+  
+  .App-card {
+      margin-top: 75px;
+      height: 700px;
+      width: 450px;
+      margin-left: 50px;
+  }
+}
+
+@media screen and (min-width: 600px) and (max-width:
+635px) {
+  .App {
+    text-align: center;
+    background-color: '#14B4B0';
+  }
+  
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+    height: 80px;
+  }
+  
+  .App-header {
+    background-color: #222;
+    height: 150px;
+    padding: 20px;
+    color: white;
+  }
+  
+  .App-title {
+    font-size: 1.5em;
+  }
+  
+  .App-intro {
+    font-size: large;
+  }
+  
+  .App-img {
+      position: absolute;
+      top: 74px;
+      z-index: -1;
+  }
+  
+  .App-card {
+      margin-top: 75px;
+      height: 700px;
+      width: 450px;
+      margin-left: 65px;
+  }
+}
+
+@media screen and (min-width: 636px) and (max-width:
+649px) {
+  .App {
+    text-align: center;
+    background-color: '#14B4B0';
+  }
+  
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+    height: 80px;
+  }
+  
+  .App-header {
+    background-color: #222;
+    height: 150px;
+    padding: 20px;
+    color: white;
+  }
+  
+  .App-title {
+    font-size: 1.5em;
+  }
+  
+  .App-intro {
+    font-size: large;
+  }
+  
+  .App-img {
+      position: absolute;
+      top: 74px;
+      z-index: -1;
+  }
+  
+  .App-card {
+      margin-top: 75px;
+      height: 700px;
+      width: 450px;
+      margin-left: 80px;
+  }
+}
+
+@media screen and (min-width: 650px) and (max-width:
+699px) {
+  .App {
+    text-align: center;
+    background-color: '#14B4B0';
+  }
+  
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+    height: 80px;
+  }
+  
+  .App-header {
+    background-color: #222;
+    height: 150px;
+    padding: 20px;
+    color: white;
+  }
+  
+  .App-title {
+    font-size: 1.5em;
+  }
+  
+  .App-intro {
+    font-size: large;
+  }
+  
+  .App-img {
+      position: absolute;
+      top: 74px;
+      z-index: -1;
+  }
+  
+  .App-card {
+      margin-top: 75px;
+      height: 700px;
+      width: 500px;
+      margin-left: 65px;
+  }
+}
+
+@media screen and (min-width: 700px) and (max-width:
+749px) {
+  .App {
+    text-align: center;
+    background-color: '#14B4B0';
+  }
+  
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+    height: 80px;
+  }
+  
+  .App-header {
+    background-color: #222;
+    height: 150px;
+    padding: 20px;
+    color: white;
+  }
+  
+  .App-title {
+    font-size: 1.5em;
+  }
+  
+  .App-intro {
+    font-size: large;
+  }
+  
+  .App-img {
+      position: absolute;
+      top: 74px;
+      z-index: -1;
+  }
+  
+  .App-card {
+      margin-top: 75px;
+      height: 500px;
+      width: 500px;
+      margin-left: 95px;
+  }
+}
+
+@media screen and (min-width: 750px) and (max-width:
+764px) {
+  .App {
+    text-align: center;
+    background-color: '#14B4B0';
+  }
+  
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+    height: 80px;
+  }
+  
+  .App-header {
+    background-color: #222;
+    height: 150px;
+    padding: 20px;
+    color: white;
+  }
+  
+  .App-title {
+    font-size: 1.5em;
+  }
+  
+  .App-intro {
+    font-size: large;
+  }
+  
+  .App-img {
+      position: absolute;
+      top: 74px;
+      z-index: -1;
+  }
+  
+  .App-card {
+      margin-top: 75px;
+      height: 500px;
+      width: 500px;
+      margin-left: 132px;
+  }
+}
+
+@media screen and (min-width: 765px) and (max-width:
+800px) {
+  .App {
+    text-align: center;
+    background-color: '#14B4B0';
+  }
+  
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+    height: 80px;
+  }
+  
+  .App-header {
+    background-color: #222;
+    height: 150px;
+    padding: 20px;
+    color: white;
+  }
+  
+  .App-title {
+    font-size: 1.5em;
+  }
+  
+  .App-intro {
+    font-size: large;
+  }
+  
+  .App-img {
+      position: absolute;
+      top: 74px;
+      z-index: -1;
+  }
+  
+  .App-card {
+      margin-top: 75px;
+      height: 500px;
+      width: 500px;
+      margin-left: 132px;
+  }
+}
+
+@media screen and (min-width: 801px) and (max-width:
+849px) {
+  .App {
+    text-align: center;
+    background-color: '#14B4B0';
+  }
+  
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+    height: 80px;
+  }
+  
+  .App-header {
+    background-color: #222;
+    height: 150px;
+    padding: 20px;
+    color: white;
+  }
+  
+  .App-title {
+    font-size: 1.5em;
+  }
+  
+  .App-intro {
+    font-size: large;
+  }
+  
+  .App-img {
+      position: absolute;
+      top: 74px;
+      z-index: -1;
+  }
+  
+  .App-card {
+      margin-top: 75px;
+      height: 500px;
+      width: 590px;
+      margin-left: 105px;
+  }
+}
+
+@media screen and (min-width: 850px) and (max-width:
+900px) {
+  .App {
+    text-align: center;
+    background-color: '#14B4B0';
+  }
+  
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+    height: 80px;
+  }
+  
+  .App-header {
+    background-color: #222;
+    height: 150px;
+    padding: 20px;
+    color: white;
+  }
+  
+  .App-title {
+    font-size: 1.5em;
+  }
+  
+  .App-intro {
+    font-size: large;
+  }
+  
+  .App-img {
+      position: absolute;
+      top: 74px;
+      z-index: -1;
+  }
+  
+  .App-card {
+      margin-top: 75px;
+      height: 500px;
+      width: 590px;
+      margin-left: 127px;
+  }
+}
+
+@media screen and (min-width: 901px) and (max-width:
+949px) {
+  .App {
+    text-align: center;
+    background-color: '#14B4B0';
+  }
+  
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+    height: 80px;
+  }
+  
+  .App-header {
+    background-color: #222;
+    height: 150px;
+    padding: 20px;
+    color: white;
+  }
+  
+  .App-title {
+    font-size: 1.5em;
+  }
+  
+  .App-intro {
+    font-size: large;
+  }
+  
+  .App-img {
+      position: absolute;
+      top: 74px;
+      z-index: -1;
+  }
+  
+  .App-card {
+      margin-top: 75px;
+      height: 500px;
+      width: 690px;
+      margin-left: 100px;
+  }
+}
+
+@media screen and (min-width: 950px) and (max-width:
+1000px) {
+  .App {
+    text-align: center;
+    background-color: '#14B4B0';
+  }
+  
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+    height: 80px;
+  }
+  
+  .App-header {
+    background-color: #222;
+    height: 150px;
+    padding: 20px;
+    color: white;
+  }
+  
+  .App-title {
+    font-size: 1.5em;
+  }
+  
+  .App-intro {
+    font-size: large;
+  }
+  
+  .App-img {
+      position: absolute;
+      top: 74px;
+      z-index: -1;
+  }
+  
+  .App-card {
+      margin-top: 75px;
+      height: 500px;
+      width: 690px;
+      margin-left: 120px;
+  }
+}
+
+@media screen and (min-width: 1001px) and (max-width:
+1030px) {
+  .App {
+    text-align: center;
+    background-color: '#14B4B0';
+  }
+  
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+    height: 80px;
+  }
+  
+  .App-header {
+    background-color: #222;
+    height: 150px;
+    padding: 20px;
+    color: white;
+  }
+  
+  .App-title {
+    font-size: 1.5em;
+  }
+  
+  .App-intro {
+    font-size: large;
+  }
+  
+  .App-img {
+      position: absolute;
+      top: 74px;
+      z-index: -1;
+  }
+  
+  .App-card {
+      margin-top: 75px;
+      height: 500px;
+      width: 700px;
+      margin-left: 150px;
+  }
+}
+
+@media screen and (min-width: 1031px) and (max-width:
+1059px) {
+  .App {
+    text-align: center;
+    background-color: '#14B4B0';
+  }
+  
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+    height: 80px;
+  }
+  
+  .App-header {
+    background-color: #222;
+    height: 150px;
+    padding: 20px;
+    color: white;
+  }
+  
+  .App-title {
+    font-size: 1.5em;
+  }
+  
+  .App-intro {
+    font-size: large;
+  }
+  
+  .App-img {
+      position: absolute;
+      top: 74px;
+      z-index: -1;
+  }
+  
+  .App-card {
+      margin-top: 75px;
+      height: 500px;
+      width: 700px;
+      margin-left: 170px;
+  }
+}
+
+@media screen and (min-width: 1060px) and (max-width:
+1099px) {
+  .App {
+    text-align: center;
+    background-color: '#14B4B0';
+  }
+  
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+    height: 80px;
+  }
+  
+  .App-header {
+    background-color: #222;
+    height: 150px;
+    padding: 20px;
+    color: white;
+  }
+  
+  .App-title {
+    font-size: 1.5em;
+  }
+  
+  .App-intro {
+    font-size: large;
+  }
+  
+  .App-img {
+      position: absolute;
+      top: 74px;
+      z-index: -1;
+  }
+  
+  .App-card {
+      margin-top: 75px;
+      height: 500px;
+      width: 700px;
+      margin-left: 180px;
+  }
+}
+
+@media screen and (min-width: 1101px) and (max-width:
+1119px) {
+  .App {
+    text-align: center;
+    background-color: '#14B4B0';
+  }
+  
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+    height: 80px;
+  }
+  
+  .App-header {
+    background-color: #222;
+    height: 150px;
+    padding: 20px;
+    color: white;
+  }
+  
+  .App-title {
+    font-size: 1.5em;
+  }
+  
+  .App-intro {
+    font-size: large;
+  }
+  
+  .App-img {
+      position: absolute;
+      top: 74px;
+      z-index: -1;
+  }
+  
+  .App-card {
+      margin-top: 75px;
+      height: 500px;
+      width: 850px;
+      margin-left: 120px;
+  }
+}
+
+@media screen and (min-width: 1120px) and (max-width:
+1139px) {
+  .App {
+    text-align: center;
+    background-color: '#14B4B0';
+  }
+  
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+    height: 80px;
+  }
+  
+  .App-header {
+    background-color: #222;
+    height: 150px;
+    padding: 20px;
+    color: white;
+  }
+  
+  .App-title {
+    font-size: 1.5em;
+  }
+  
+  .App-intro {
+    font-size: large;
+  }
+  
+  .App-img {
+      position: absolute;
+      top: 74px;
+      z-index: -1;
+  }
+  
+  .App-card {
+      margin-top: 75px;
+      height: 500px;
+      width: 850px;
+      margin-left: 130px;
+  }
+}
+
+@media screen and (min-width: 1140px) and (max-width:
+1170px) {
+  .App {
+    text-align: center;
+    background-color: '#14B4B0';
+  }
+  
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+    height: 80px;
+  }
+  
+  .App-header {
+    background-color: #222;
+    height: 150px;
+    padding: 20px;
+    color: white;
+  }
+  
+  .App-title {
+    font-size: 1.5em;
+  }
+  
+  .App-intro {
+    font-size: large;
+  }
+  
+  .App-img {
+      position: absolute;
+      top: 74px;
+      z-index: -1;
+  }
+  
+  .App-card {
+      margin-top: 75px;
+      height: 500px;
+      width: 850px;
+      margin-left: 140px;
+  }
+}
+
+@media screen and (min-width: 1171px) and (max-width:
+1198px) {
+  .App {
+    text-align: center;
+    background-color: '#14B4B0';
+  }
+  
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+    height: 80px;
+  }
+  
+  .App-header {
+    background-color: #222;
+    height: 150px;
+    padding: 20px;
+    color: white;
+  }
+  
+  .App-title {
+    font-size: 1.5em;
+  }
+  
+  .App-intro {
+    font-size: large;
+  }
+  
+  .App-img {
+      position: absolute;
+      top: 74px;
+      z-index: -1;
+  }
+  
+  .App-card {
+      margin-top: 75px;
+      height: 500px;
+      width: 850px;
+      margin-left: 155px;
+  }
+}
+
+@media screen and (min-width: 1199px) and (max-width:
+1209px) {
+  .App {
+    text-align: center;
+    background-color: '#14B4B0';
+  }
+  
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+    height: 80px;
+  }
+  
+  .App-header {
+    background-color: #222;
+    height: 150px;
+    padding: 20px;
+    color: white;
+  }
+  
+  .App-title {
+    font-size: 1.5em;
+  }
+  
+  .App-intro {
+    font-size: large;
+  }
+  
+  .App-img {
+      position: absolute;
+      top: 74px;
+      z-index: -1;
+  }
+  
+  .App-card {
+      margin-top: 75px;
+      height: 500px;
+      width: 850px;
+      margin-left: 180px;
+  }
+}
+
+@media screen and (min-width: 1210px) and (max-width:
+1250px) {
+  .App {
+    text-align: center;
+    background-color: '#14B4B0';
+  }
+  
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+    height: 80px;
+  }
+  
+  .App-header {
+    background-color: #222;
+    height: 150px;
+    padding: 20px;
+    color: white;
+  }
+  
+  .App-title {
+    font-size: 1.5em;
+  }
+  
+  .App-intro {
+    font-size: large;
+  }
+  
+  .App-img {
+      position: absolute;
+      top: 74px;
+      z-index: -1;
+  }
+  
+  .App-card {
+      margin-top: 75px;
+      height: 500px;
+      width: 850px;
+      margin-left: 176px;
+  }
+}
+
+@media screen and (min-width: 1255px) and (max-width:
+1300px) {
+  .App {
+    text-align: center;
+    background-color: '#14B4B0';
+  }
+  
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+    height: 80px;
+  }
+  
+  .App-header {
+    background-color: #222;
+    height: 150px;
+    padding: 20px;
+    color: white;
+  }
+  
+  .App-title {
+    font-size: 1.5em;
+  }
+  
+  .App-intro {
+    font-size: large;
+  }
+  
+  .App-img {
+      position: absolute;
+      top: 74px;
+      z-index: -1;
+  }
+  
+  .App-card {
+      margin-top: 75px;
+      height: 500px;
+      width: 850px;
+      margin-left: 210px;
+  }
+}
+
+
+
+
+/* @media screen and (min-width: 1210px) and (max-width:
+1300px) {
+  .App {
+    text-align: center;
+    background-color: '#14B4B0';
+  }
+  
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+    height: 80px;
+  }
+  
+  .App-header {
+    background-color: #222;
+    height: 150px;
+    padding: 20px;
+    color: white;
+  }
+  
+  .App-title {
+    font-size: 1.5em;
+  }
+  
+  .App-intro {
+    font-size: large;
+  }
+  
+  .App-img {
+      position: absolute;
+      top: 74px;
+      z-index: -1;
+  }
+  
+  .App-card {
+      margin-top: 75px;
+      height: 500px;
+      width: 850px;
+      margin-left: 176px;
+  }
+} */
+
+@media screen and (min-width: 1500px) and (max-width:
+1690px) {
+  .App {
+    text-align: center;
+    background-color: '#14B4B0';
+  }
+  
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+    height: 80px;
+  }
+  
+  .App-header {
+    background-color: #222;
+    height: 150px;
+    padding: 20px;
+    color: white;
+  }
+  
+  .App-title {
+    font-size: 1.5em;
+  }
+  
+  .App-intro {
+    font-size: large;
+  }
+  
+  .App-img {
+      position: absolute;
+      top: 74px;
+      z-index: -1;
+  }
+  
+  .App-card {
+    margin-top: 75px;
+    height: 500px;
+    width: 950px;
+    margin-left: 270px;
+  }
+
+}
+
+@media screen and (min-width: 1700px) and (max-width:
+1790px) {
+  .App {
+    text-align: center;
+    background-color: '#14B4B0';
+  }
+  
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+    height: 80px;
+  }
+  
+  .App-header {
+    background-color: #222;
+    height: 150px;
+    padding: 20px;
+    color: white;
+  }
+  
+  .App-title {
+    font-size: 1.5em;
+  }
+  
+  .App-intro {
+    font-size: large;
+  }
+  
+  .App-img {
+      position: absolute;
+      top: 74px;
+      z-index: -1;
+  }
+  
+  .App-card {
+    margin-top: 75px;
+    height: 500px;
+    width: 1000px;
+    margin-left: 330px;
+  }
+
+}
+
+@media screen and (min-width: 1800px) and (max-width:
+1980px) {
+  .App {
+    text-align: center;
+    background-color: '#14B4B0';
+  }
+  
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+    height: 80px;
+  }
+  
+  .App-header {
+    background-color: #222;
+    height: 150px;
+    padding: 20px;
+    color: white;
+  }
+  
+  .App-title {
+    font-size: 1.5em;
+  }
+  
+  .App-intro {
+    font-size: large;
+  }
+  
+  .App-img {
+      position: absolute;
+      top: 74px;
+      z-index: -1;
+  }
+  
+  .App-card {
+    margin-top: 75px;
+    height: 500px;
+    width: 1000px;
+    margin-left: 380px;
+  }
+
+}
+
+@media screen and (min-width: 1990px) and (max-width: 2500px) {
+  .App {
+    text-align: center;
+    background-color: '#14B4B0';
+  }
+  
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+    height: 80px;
+  }
+  
+  .App-header {
+    background-color: #222;
+    height: 150px;
+    padding: 20px;
+    color: white;
+  }
+  
+  .App-title {
+    font-size: 1.5em;
+  }
+  
+  .App-intro {
+    font-size: large;
+  }
+  
+  .App-img {
+      position: absolute;
+      top: 74px;
+      z-index: -1;
+  }
+  
+  .App-card {
+    margin-top: 75px;
+    height: 500px;
+    width: 1250px;
+    margin-left: 370px;
+  }
+
+}
+
+@media screen and (min-width: 2550px) and (max-width: 3500px) {
+
+  .App {
+    text-align: center;
+    background-color: '#14B4B0';
+  }
+  
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+    height: 80px;
+  }
+  
+  .App-header {
+    background-color: #222;
+    height: 150px;
+    padding: 20px;
+    color: white;
+  }
+  
+  .App-title {
+    font-size: 1.5em;
+  }
+  
+  .App-intro {
+    font-size: large;
+  }
+  
+  .App-img {
+      position: absolute;
+      top: 74px;
+      z-index: -1;
+  }
+  
+  .App-card {
+    margin-top: 75px;
+    height: 500px;
+    width: 1400px;
+    margin-left: 650px;
+  }
+
+}
+
+
+
+
+
